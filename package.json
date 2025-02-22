@@ -1,0 +1,24 @@
+{
+  "name": "quicknodetoken",
+  "version": "1.0.0",
+  "description": "A Quick ERC20 created to learn hardhat",
+  "homepage": "https://github.com/jo-twite/QuickNodeToken#readme",
+  "bugs": {
+    "url": "https://github.com/jo-twite/QuickNodeToken/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-twite/QuickNodeToken.git"
+  },
+  "license": "ISC",
+  "author": "jo-twite",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  }
+}
